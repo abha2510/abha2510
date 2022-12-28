@@ -107,15 +107,15 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 ## 📊 My Github Stats
 <p align="left" style="margin-right:0px;padding-right:0px">
-<img src="https://github-readme-stats.vercel.app/api?username=RevatiJunghare&theme=algolia">
-<img alt="streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=RevatiJunghare&theme=algolia" />
+<img src="https://github-readme-stats.vercel.app/api?username=abha2510&theme=algolia">
+<img alt="streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=abha2510&theme=algolia" />
 </p>
 ## Connect with me:
 <p align="center">
-  <a href="https://www.linkedin.com/in/revati-junghare-612346179/"></a>
+  <a href="https://www.linkedin.com/in/abha-meshram-96b189215/"></a>
 </p>
 ## ❤ Views and Followers
-<p align='center'> <img src="https://komarev.com/ghpvc/?username=RevatiJunghare&label=Profile%20views&color=blueviolet&style=plastic" width="160px" alt="views" /> </p>
+<p align='center'> <img src="https://komarev.com/ghpvc/?username=abha2510&label=Profile%20views&color=blueviolet&style=plastic" width="160px" alt="views" /> </p>
 <h2 align='left'>Thank You ❤</h2>
 <p align="center">
   <img src="https://media.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif" width="100%" height="400px">

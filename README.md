@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abha Meshram</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Full Stack Web Developer from India</h3>
  <p align="center">
   <img src="https://media3.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif?cid=ecf05e47mxvt9n4h1xqhmgm7zt5fnvq38vhnxra3ccvr24wz&rid=giphy.gif&ct=g" width="70%" height="300px">
 </p>	

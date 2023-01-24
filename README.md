@@ -13,7 +13,7 @@
 
 - Portfolio  **https://abha2510.github.io/**
 
-- Resume [Abha_Meshram_Resume.pdf](https://github.com/abha2510/abha2510/files/10486937/Abha_Meshram_Resume.pdf)
+<!-- - Resume [Abha_Meshram_Resume.pdf](https://github.com/abha2510/abha2510/files/10486937/Abha_Meshram_Resume.pdf) -->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 

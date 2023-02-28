@@ -13,7 +13,7 @@
 
 - Portfolio  **https://abha2510.github.io/**
 
--LinkedIn **https://www.linkedin.com/in/abha-meshram-96b189215/**
+- LinkedIn **https://www.linkedin.com/in/abha-meshram-96b189215/**
 
 <!-- - Resume [Abha_Meshram_Resume.pdf](https://github.com/abha2510/abha2510/files/10486937/Abha_Meshram_Resume.pdf) -->
 

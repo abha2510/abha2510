@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abha Meshram</h1>
 <h3 align="center">A passionate Full Stack Web Developer from India</h3>
  <p align="center">
-  <img src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif" width="90%" height="400px">
+  <img src="https://media2.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e47jpvovyqyntlqzkfyx48j65ej8h4q65rrg8s1oce3&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="90%" height="500px">
 </p>	
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abha2510&label=Profile%20views&color=0e75b6&style=flat" alt="abha2510" /> </p>
 
@@ -149,16 +149,16 @@
  
  </table>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-## 📊 My Github Stats
+<h2> 📊My Github Stats</h2>
 <p align="left" style="margin-right:0px;padding-right:0px">
 <img src="https://github-readme-stats.vercel.app/api?username=abha2510&theme=algolia">
 <img alt="streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=abha2510&theme=algolia" />
 </p>
-## Connect with me:
+<h2>Connect with me:</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/abha-meshram-96b189215/"></a>
 </p>
-## ❤ Views and Followers
+<h2>❤Views and Followers</h2>
 <p align='center'> <img src="https://komarev.com/ghpvc/?username=abha2510&label=Profile%20views&color=blueviolet&style=plastic" width="160px" alt="views" /> </p>
 <h2 align='left'>Thank You ❤</h2>
 <p align="center">

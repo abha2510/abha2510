@@ -5,15 +5,15 @@
 </p>	
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abha2510&label=Profile%20views&color=0e75b6&style=flat" alt="abha2510" /> </p>
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 **Full Stack Web Developer (MERN)**
 
-- 💬 Ask me about **JavaScript**
+- 💬 Ask me about **JavaScript, React, Node, Express, MongoDB**
 
 - 📫 How to reach me **abha25meshram@gmail.com**
 
 - Portfolio  **https://abha2510.github.io/**
 
-- LinkedIn **https://www.linkedin.com/in/abha-meshram-96b189215/**
+- LinkedIn **https://www.linkedin.com/in/abhameshram/**
 
 <!-- - Resume [Abha_Meshram_Resume.pdf](https://github.com/abha2510/abha2510/files/10486937/Abha_Meshram_Resume.pdf) -->
 

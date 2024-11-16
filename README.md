@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abha Meshram</h1>
 <h3 align="center">A passionate Full Stack Web Developer from India</h3>
  <p align="center">
-  <img src="https://media2.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e47jpvovyqyntlqzkfyx48j65ej8h4q65rrg8s1oce3&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="90%" height="500px">
+  <img src="https://user-images.githubusercontent.com/66934377/223913733-deb1d974-787d-43c4-b60d-eff538aa161e.gif" width="90%" height="500px">
 </p>	
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abha2510&label=Profile%20views&color=0e75b6&style=flat" alt="abha2510" /> </p>
 

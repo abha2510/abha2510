@@ -7,7 +7,7 @@
 
 - 🌱 **Full Stack Web Developer (MERN)**
 
-- 💬 Ask me about **JavaScript, React, Node, Express, MongoDB**
+- 💬 Ask me about **JavaScript, React, Node, Express, MongoDB, Angular, Springboot**
 
 - 📫 How to reach me **abha25meshram@gmail.com**
 

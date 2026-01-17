@@ -5,7 +5,7 @@
 </p>	
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abha2510&label=Profile%20views&color=0e75b6&style=flat" alt="abha2510" /> </p>
 
-- 🌱 **Full Stack Web Developer (MERN)**
+- 🌱 **Full Stack Web Developer**
 
 - 💬 Ask me about **JavaScript, React, Node, Express, MongoDB, Angular, Springboot**
 
